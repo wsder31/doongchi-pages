@@ -1,23 +1,23 @@
 id,name,nameEn,description,price,image
-1,관자 에비 아게모노,Gwancha ebi agemono,신선한 관자와 새우를 바삭하게 튀긴 요리,20000,public/images/menus/관자 에비 아게모노.jpg
-2,난반 가라아게,Nanban karaage,바삭하게 튀긴 닭고기와 절임고추 소스,18000,public/images/menus/난반 가라아게.jpg
-3,대창 덮밥(점심),Daechang rice bowl(Lunch),대창 덮밥(점심),12000,public/images/menus/대창 덮밥( 점심).jpg
-4,메로 유한야끼,Black cod yaki,메로를 간장양념에 재워 구운 요리,26000,public/images/menus/메로 유한야끼.jpg
-5,모듬 사시미,Assorted sashimi,제철 생선을 다양하게 즐기는 사시미,38000,public/images/menus/모듬 사시미.jpg
-6,모모니꾸,Momo niku,모모니꾸,20000,public/images/menus/모모니꾸.jpg
-7,모츠 나베,Motsu nabe,대창과 채소를 진한 국물에 끓인 나베,26000,public/images/menus/모츠 나베.jpg
-8,붓가케 우동,Bukkake udon,붓가케 우동,20000,public/images/menus/붓가케 우동.jpg
-9,사바 보우 스시,Saba bou sushi,숙성 초절임 고등어로 만든 초밥,22000,public/images/menus/사바 보우 스시.jpg
-10,세세리 야끼,Seseri yaki,쫄깃한 닭목살 숯불구이,18000,public/images/menus/세세리 야끼.jpg
-11,치즈 고로케,Cheese croquette,세 가지 치즈로 만든 수제 고로케,5000,public/images/menus/수제 고로케.jpg
-12,시메 사바,Shime saba,초절임 고등어 사시미,18000,public/images/menus/시메 사바.jpg
-13,연어 덮밥,Salmon rice bowl,연어 덮밥,20000,public/images/menus/연어 덮밥.jpg
-14,연어 시오야끼,Salmon shioyaki,연어 시오야끼,20000,public/images/menus/연어 시오야끼.jpg
-15,우니 삼합,Uni trio,단새우+관자+우니 조화,30000,public/images/menus/우니 삼합.jpg
-16,카이센동,Kaise don,신선한 해산물 덮밥,20000,public/images/menus/카이센동.jpg
-17,테바사끼 교자,Tebasaki gyoza,닭날개 속에 다짐육 채워 구운 요리,18000,public/images/menus/테바사끼 교자.jpg
-18,호소 마키,Hoso maki,재료 하나의 맛을 살린 심플한 롤,18000,public/images/menus/호소 마끼.jpg
-19,후토마키,Futo maki,두툼하게 말아낸 롤(5pcs),14000,public/images/menus/후토마끼.jpg
+1,관자 에비 아게모노,Gwancha ebi agemono,신선한 관자와 새우를 바삭하게 튀긴 요리,20.0,public/images/menus/관자 에비 아게모노.jpg
+2,난반 가라아게,Nanban karaage,바삭하게 튀긴 닭고기와 절임고추 소스,18.0,public/images/menus/난반 가라아게.jpg
+3,대창 덮밥(점심),Daechang rice bowl(Lunch),대창 덮밥(점심),12.0,public/images/menus/대창 덮밥( 점심).jpg
+4,메로 유한야끼,Black cod yaki,메로를 간장양념에 재워 구운 요리,26.0,public/images/menus/메로 유한야끼.jpg
+5,모듬 사시미,Assorted sashimi,제철 생선을 다양하게 즐기는 사시미,38.0,public/images/menus/모듬 사시미.jpg
+6,모모니꾸,Momo niku,모모니꾸,2.00,public/images/menus/모모니꾸.jpg
+7,모츠 나베,Motsu nabe,대창과 채소를 진한 국물에 끓인 나베,26.0,public/images/menus/모츠 나베.jpg
+8,붓가케 우동,Bukkake udon,붓가케 우동,2.00,public/images/menus/붓가케 우동.jpg
+9,사바 보우 스시,Saba bou sushi,숙성 초절임 고등어로 만든 초밥,22.0,public/images/menus/사바 보우 스시.jpg
+10,세세리 야끼,Seseri yaki,쫄깃한 닭목살 숯불구이,18.0,public/images/menus/세세리 야끼.jpg
+11,치즈 고로케,Cheese croquette,세 가지 치즈로 만든 수제 고로케,5.0,public/images/menus/수제 고로케.jpg
+12,시메 사바,Shime saba,초절임 고등어 사시미,18.0,public/images/menus/시메 사바.jpg
+13,연어 덮밥,Salmon rice bowl,연어 덮밥,2.00,public/images/menus/연어 덮밥.jpg
+14,연어 시오야끼,Salmon shioyaki,연어 시오야끼,2.00,public/images/menus/연어 시오야끼.jpg
+15,우니 삼합,Uni trio,단새우+관자+우니 조화,3.00,public/images/menus/우니 삼합.jpg
+16,카이센동,Kaise don,신선한 해산물 덮밥,2.00,public/images/menus/카이센동.jpg
+17,테바사끼 교자,Tebasaki gyoza,닭날개 속에 다짐육 채워 구운 요리,18.0,public/images/menus/테바사끼 교자.jpg
+18,호소 마키,Hoso maki,재료 하나의 맛을 살린 심플한 롤,18.0,public/images/menus/호소 마끼.jpg
+19,후토마키,Futo maki,두툼하게 말아낸 롤(5pcs),14.0,public/images/menus/후토마끼.jpg
 20,둥치 상차림,Doongchi course,정성을 다하겠습니다,,public/images/menus/전체샷6.jpg
 21,둥치,Doongchi,어서오세요,,public/images/logo.jpg
 
