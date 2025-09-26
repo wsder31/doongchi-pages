@@ -1,0 +1,116 @@
+/* Custom CSS Variables for Izakaya Theme */
+:root {
+  /* Updated theme for izakaya aesthetic with warm, dark tones */
+  --background: oklch(0.08 0.02 30);
+  --foreground: oklch(0.95 0.01 60);
+  --card: oklch(0.12 0.02 30);
+  --card-foreground: oklch(0.92 0.01 60);
+  --popover: oklch(0.12 0.02 30);
+  --popover-foreground: oklch(0.92 0.01 60);
+  --primary: oklch(0.65 0.15 45);
+  --primary-foreground: oklch(0.08 0.02 30);
+  --secondary: oklch(0.18 0.03 35);
+  --secondary-foreground: oklch(0.88 0.01 60);
+  --muted: oklch(0.15 0.02 35);
+  --muted-foreground: oklch(0.65 0.01 50);
+  --accent: oklch(0.72 0.18 50);
+  --accent-foreground: oklch(0.08 0.02 30);
+  --destructive: oklch(0.577 0.245 27.325);
+  --destructive-foreground: oklch(0.577 0.245 27.325);
+  --border: oklch(0.22 0.03 35);
+  --input: oklch(0.18 0.03 35);
+  --ring: oklch(0.65 0.15 45);
+  --radius: 0.625rem;
+}
+
+/* Tailwind CSS Custom Configuration */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base Styles */
+* {
+  border-color: var(--border);
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+/* Custom Izakaya Styles */
+.hero-gradient {
+  background: linear-gradient(135deg, var(--background) 0%, var(--card) 100%);
+}
+
+.menu-card-hover {
+  transition: all 0.3s ease;
+  background-color: var(--card);
+  border-color: var(--border);
+}
+
+.menu-card-hover:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+}
+
+.text-shadow {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+/* Color Classes */
+.bg-background {
+  background-color: var(--background);
+}
+.text-foreground {
+  color: var(--foreground);
+}
+.bg-card {
+  background-color: var(--card);
+}
+.text-card-foreground {
+  color: var(--card-foreground);
+}
+.bg-primary {
+  background-color: var(--primary);
+}
+.text-primary {
+  color: var(--primary);
+}
+.text-primary-foreground {
+  color: var(--primary-foreground);
+}
+.bg-secondary {
+  background-color: var(--secondary);
+}
+.text-secondary-foreground {
+  color: var(--secondary-foreground);
+}
+.text-muted-foreground {
+  color: var(--muted-foreground);
+}
+.bg-accent {
+  background-color: var(--accent);
+}
+.text-accent-foreground {
+  color: var(--accent-foreground);
+}
+.border-border {
+  border-color: var(--border);
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .text-6xl {
+    font-size: 3rem;
+  }
+  .text-8xl {
+    font-size: 4rem;
+  }
+}
