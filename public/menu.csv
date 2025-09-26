@@ -14,7 +14,7 @@ id,name,nameEn,description,price,image
 13,연어 덮밥,Salmon rice bowl,연어 덮밥,2.00,public/images/menus/연어 덮밥.jpg
 14,연어 시오야끼,Salmon shioyaki,연어 시오야끼,2.00,public/images/menus/연어 시오야끼.jpg
 15,우니 삼합,Uni trio,단새우+관자+우니 조화,3.00,public/images/menus/우니 삼합.jpg
-16,카이센동,Kaise don,신선한 해산물 덮밥,2.00,public/images/menus/카이센동.jpg
+16,카이센동,Kaisen don,신선한 해산물 덮밥,2.00,public/images/menus/카이센동.jpg
 17,테바사끼 교자,Tebasaki gyoza,닭날개 속에 다짐육 채워 구운 요리,18.0,public/images/menus/테바사끼 교자.jpg
 18,호소 마키,Hoso maki,재료 하나의 맛을 살린 심플한 롤,18.0,public/images/menus/호소 마끼.jpg
 19,후토마키,Futo maki,두툼하게 말아낸 롤(5pcs),14.0,public/images/menus/후토마끼.jpg

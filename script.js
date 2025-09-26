@@ -123,7 +123,7 @@ const menuItems = [
   {
     id: 16,
     name: "카이센동",
-    nameEn: "Kaiseondo",
+    nameEn: "Kaisen don",
     description: "신선한 해산물과 밥의 조화를 이루는 덮밥",
     price: "20,000원",
     image: "public/images/menus/카이센동.jpg",
