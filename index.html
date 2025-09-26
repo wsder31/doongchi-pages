@@ -9,12 +9,15 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body class="bg-background text-foreground">
-    <audio id="backgroundMusic" loop>
-        <source src="public/bgm/둥치1. 다시 만날 수 있는 곳 2025.mp3" type="audio/mpeg">
-        <source src="public/bgm/둥치2. 다시 만날 수 있는 곳 2025.mp3" type="audio/mpeg">
-    </audio>
+    <audio id="backgroundMusic"></audio>
 
     <div class="fixed bottom-4 right-4 z-50 flex gap-2">
+        <button id="prevBtn" class="bg-card/80 backdrop-blur-sm hover:bg-card px-3 py-2 rounded-md border border-border transition-colors">
+            <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <polygon points="11,12 19,5 19,19"></polygon>
+                <rect x="5" y="5" width="2" height="14"></rect>
+            </svg>
+        </button>
         <button id="playPauseBtn" class="bg-card/80 backdrop-blur-sm hover:bg-card px-3 py-2 rounded-md border border-border transition-colors">
             <svg id="playIcon" class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <polygon points="5,3 19,12 5,21"></polygon>
@@ -34,6 +37,12 @@
                 <polygon points="11,5 6,9 2,9 2,15 6,15 11,19"></polygon>
                 <line x1="23" y1="9" x2="17" y2="15"></line>
                 <line x1="17" y1="9" x2="23" y2="15"></line>
+            </svg>
+        </button>
+        <button id="nextBtn" class="bg-card/80 backdrop-blur-sm hover:bg-card px-3 py-2 rounded-md border border-border transition-colors">
+            <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <polygon points="13,12 5,5 5,19"></polygon>
+                <rect x="17" y="5" width="2" height="14"></rect>
             </svg>
         </button>
     </div>
