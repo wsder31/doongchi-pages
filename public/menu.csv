@@ -9,7 +9,7 @@ id,name,nameEn,description,price,image
 8,붓가케 우동,Bukkake udon,붓가케 우동,2.00,public/images/menus/붓가케 우동.jpg
 9,사바 보우 스시,Saba bou sushi,숙성 초절임 고등어로 만든 초밥,22.0,public/images/menus/사바 보우 스시.jpg
 10,세세리 야끼,Seseri yaki,쫄깃한 닭목살 숯불구이,18.0,public/images/menus/세세리 야끼.jpg
-11,치즈 고로케,Cheese croquette,세 가지 치즈로 만든 수제 고로케,5.0,public/images/menus/수제 고로케.jpg
+11,치즈 고로케,Cheese croquette,세 가지 치즈로 만든 수제 고로케(1pc),5.0,public/images/menus/수제 고로케.jpg
 12,시메 사바,Shime saba,초절임 고등어 사시미,18.0,public/images/menus/시메 사바.jpg
 13,연어 덮밥,Salmon rice bowl,연어 덮밥,2.00,public/images/menus/연어 덮밥.jpg
 14,연어 시오야끼,Salmon shioyaki,연어 시오야끼,2.00,public/images/menus/연어 시오야끼.jpg
