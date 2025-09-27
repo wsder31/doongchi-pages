@@ -1,13 +1,5 @@
 const menuItems = [
   {
-    id: 1,
-    name: "관자 에비 아게모노",
-    nameEn: "Gwancha ebi agemono",
-    description: "신선한 관자와 새우를 바삭하게 튀긴 요리",
-    price: "20.0",
-    image: "public/images/menus/관자 에비 아게모노.jpg",
-  },
-  {
     id: 2,
     name: "난반 가라아게",
     nameEn: "Nanban karaage",
@@ -54,14 +46,6 @@ const menuItems = [
     description: "고소한 대창과 채소를 깊고 진한 국물에 끓인 일본식 나베요리",
     price: "26.0",
     image: "public/images/menus/모츠 나베.jpg",
-  },
-  {
-    id: 8,
-    name: "붓가케 우동",
-    nameEn: "Bukkake udon",
-    description: "붓가케 우동",
-    price: "",
-    image: "public/images/menus/붓가케 우동.jpg",
   },
   {
     id: 9,
