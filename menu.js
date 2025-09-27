@@ -44,7 +44,7 @@ const menuItems = [
     name: "모모니꾸",
     nameEn: "Momo niku",
     description: "모모니꾸",
-    price: "20.0",
+    price: "",
     image: "public/images/menus/모모니꾸.jpg",
   },
   {
@@ -60,7 +60,7 @@ const menuItems = [
     name: "붓가케 우동",
     nameEn: "Bukkake udon",
     description: "붓가케 우동",
-    price: "20.0",
+    price: "",
     image: "public/images/menus/붓가케 우동.jpg",
   },
   {
@@ -100,7 +100,7 @@ const menuItems = [
     name: "연어 덮밥",
     nameEn: "Salmon rice bowl",
     description: "연어 덮밥",
-    price: "20.0",
+    price: "",
     image: "public/images/menus/연어 덮밥.jpg",
   },
   {
@@ -108,7 +108,7 @@ const menuItems = [
     name: "연어 시오야끼",
     nameEn: "Salmon shioyaki",
     description: "연어 시오야끼",
-    price: "20.0",
+    price: "",
     image: "public/images/menus/연어 시오야끼.jpg",
   },
   {
