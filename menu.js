@@ -10,7 +10,7 @@ const menuItems = [
   {
     id: 2,
     name: "난반 가라아게",
-    nameEn: "Nampan garage",
+    nameEn: "Nanban karaage",
     description: "바삭하게 튀긴 닭고기와 절임고추 소스에 버무린 튀김요리",
     price: "18.0",
     image: "public/images/menus/난반 가라아게.jpg",
@@ -18,7 +18,7 @@ const menuItems = [
   {
     id: 3,
     name: "대창 덮밥(점심)",
-    nameEn: "Daechon deopbap(Lunch)",
+    nameEn: "Daechang rice bowl(Lunch)",
     description: "대창 덮밥(점심)",
     price: "12.0",
     image: "public/images/menus/대창 덮밥( 점심).jpg",
@@ -26,7 +26,7 @@ const menuItems = [
   {
     id: 4,
     name: "메로 유한야끼",
-    nameEn: "Mero yunakki",
+    nameEn: "Black cod yaki",
     description: "메로를 간장양념에 재워 숯불로 구워낸 부드러운 요리",
     price: "26.0",
     image: "public/images/menus/메로 유한야끼.jpg",
@@ -34,7 +34,7 @@ const menuItems = [
   {
     id: 5,
     name: "모듬 사시미",
-    nameEn: "Mushroom yunakki",
+    nameEn: "Assorted sashimi",
     description: "다양한 종류의 제철 생선을 숙성해 감칠맛을 더한 사시미",
     price: "38.0",
     image: "public/images/menus/모듬 사시미.jpg",
@@ -42,7 +42,7 @@ const menuItems = [
   {
     id: 6,
     name: "모모니꾸",
-    nameEn: "Momoni gu",
+    nameEn: "Momo niku",
     description: "모모니꾸",
     price: "20.0",
     image: "public/images/menus/모모니꾸.jpg",
@@ -50,7 +50,7 @@ const menuItems = [
   {
     id: 7,
     name: "모츠 나베",
-    nameEn: "Motsu naebi",
+    nameEn: "Motsu nabe",
     description: "고소한 대창과 채소를 깊고 진한 국물에 끓인 일본식 나베요리",
     price: "26.0",
     image: "public/images/menus/모츠 나베.jpg",
@@ -58,7 +58,7 @@ const menuItems = [
   {
     id: 8,
     name: "붓가케 우동",
-    nameEn: "Bubukake udon",
+    nameEn: "Bukkake udon",
     description: "붓가케 우동",
     price: "20.0",
     image: "public/images/menus/붓가케 우동.jpg",
@@ -66,7 +66,7 @@ const menuItems = [
   {
     id: 9,
     name: "사바 보우 스시",
-    nameEn: "Sabaw boo sushi",
+    nameEn: "Saba bou sushi",
     description: "깊은 풍미의 숙성 초절임 고등어로 만든 초밥",
     price: "22.0",
     image: "public/images/menus/사바 보우 스시.jpg",
@@ -82,7 +82,7 @@ const menuItems = [
   {
     id: 11,
     name: "치즈 고로케",
-    nameEn: "Cheese gorekake",
+    nameEn: "Cheese croquette",
     description: "세 가지 치즈를 넣어 매장에서 직접 만든 바삭, 고소한 수제 고로케(1pc)",
     price: "5.0",
     image: "public/images/menus/수제 고로케.jpg",
@@ -90,7 +90,7 @@ const menuItems = [
   {
     id: 12,
     name: "시메 사바",
-    nameEn: "Sime saba",
+    nameEn: "Shime saba",
     description: "신선한 고등어를 초절임하여 깔끔하게 즐기는 일본식 사시미",
     price: "18.0",
     image: "public/images/menus/시메 사바.jpg",
@@ -98,7 +98,7 @@ const menuItems = [
   {
     id: 13,
     name: "연어 덮밥",
-    nameEn: "Ebi deopbap",
+    nameEn: "Salmon rice bowl",
     description: "연어 덮밥",
     price: "20.0",
     image: "public/images/menus/연어 덮밥.jpg",
@@ -106,7 +106,7 @@ const menuItems = [
   {
     id: 14,
     name: "연어 시오야끼",
-    nameEn: "Ebi shioyaki",
+    nameEn: "Salmon shioyaki",
     description: "연어 시오야끼",
     price: "20.0",
     image: "public/images/menus/연어 시오야끼.jpg",
@@ -114,7 +114,7 @@ const menuItems = [
   {
     id: 15,
     name: "우니 삼합",
-    nameEn: "Unni samhwa",
+    nameEn: "Uni trio",
     description: "달콤한 단새우, 부드러운 관자, 바다향 가득한 우니의 조화",
     price: "30.0",
     image: "public/images/menus/우니 삼합.jpg",
@@ -130,7 +130,7 @@ const menuItems = [
   {
     id: 17,
     name: "테바사끼 교자",
-    nameEn: "Tebasaki kjowa",
+    nameEn: "Tebasaki gyoza",
     description: "닭날개 속에 다짐육을 채워 구운 숯불요리",
     price: "18.0",
     image: "public/images/menus/테바사끼 교자.jpg",
@@ -146,7 +146,7 @@ const menuItems = [
   {
     id: 19,
     name: "후토마키",
-    nameEn: "Hoto maki",
+    nameEn: "Futo maki",
     description: "여러가지 재료를 듬뿍 넣어 두툼하게 말아낸 롤(5pcs)",
     price: "14.0",
     image: "public/images/menus/후토마끼.jpg",
@@ -154,7 +154,7 @@ const menuItems = [
   {
     id: 20,
     name: "둥치 상차림",
-    nameEn: "Doongchi sangchari",
+    nameEn: "Doongchi course",
     description: "정성을 다하겠습니다",
     price: "",
     image: "public/images/menus/전체샷6.jpg",
